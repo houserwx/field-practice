@@ -1,15 +1,13 @@
-# Commercial path
+# Commercial use — EthercatDrone / Recursed Studios
 
-EthercatDrone and libDynamicHardware are free for non-commercial use.
-Commercial products and funded programs need a license.
+EthercatDrone is free for non-commercial use.
+Commercial products, paid internal tools, and funded hardware programs need a license.
 
-Email recursedstudios@gmail.com
-
-| Subject | Offer | Price |
+| Offer | Price | How |
 |---|---|---|
-| KIT | Commissioning kit (email delivery) | $79 |
-| CLINIC | 90-minute bring-up | $397 |
-| REVIEW | Architecture review | $1,250 |
-| LICENSE | Commercial code license | from $2,500 |
+| Bring-Up Punch List | $397 | Pay, email `CLINIC:` with traces. Written. No call. https://buy.stripe.com/7sYeVdbYSbwaaD01iO4AU01 |
+| Architecture Review | $1,250 | Email `REVIEW:`. Written. No call. |
+| Commissioning Kit | $79 | https://buy.stripe.com/5kQ3cvd2W1VA26u8Lg4AU00 |
+| Commercial license | from $2,500 | Email `LICENSE:` |
 
-Include platform, NIC, master stack, cycle-time target, slave count, and whether vision shares the SoC.
+Email jeff@recursedstudios.com
