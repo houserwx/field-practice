@@ -2,23 +2,21 @@
 
 Hard-real-time EtherCAT bring-up for Raspberry Pi 5 / CM5 and NVIDIA Jetson boxes that also run vision.
 
-This is a **product storefront**, not a hobby dump. The free file is the one-page gate checklist. The full commissioning sequence is a paid kit.
-
 **Contact:** [recursedstudios@gmail.com](mailto:recursedstudios@gmail.com)  
-**Stack in public:** [EthercatDrone](https://github.com/houserwx/EthercatDrone) · [libDynamicHardware](https://github.com/houserwx/libdynamichardware)
+**Stack:** [EthercatDrone](https://github.com/houserwx/EthercatDrone) · [libDynamicHardware](https://github.com/houserwx/libdynamichardware)
 
 ---
 
 ## Buy
 
-| SKU | Price | How |
+| SKU | Price | Checkout |
 |---|---|---|
-| Commissioning Kit (written sequence + acceptance sheet + failure tree) | $79 | Email `KIT` to recursedstudios@gmail.com — invoice goes out after Stripe is live |
-| Bring-Up Clinic (90 min, remote, punch list) | $397 | Email `CLINIC` with platform, NIC, cycle target, slave count |
+| Commissioning Kit | $79 | [Pay](https://buy.stripe.com/5kQ3cvd2W1VA26u8Lg4AU00) |
+| Bring-Up Clinic (90 min) | $397 | [Pay](https://buy.stripe.com/7sYeVdbYSbwaaD01iO4AU01) |
 | Architecture Review | $1,250 | Email `REVIEW` |
-| Commercial license of EthercatDrone / libDynamicHardware | from $2,500 | Email `LICENSE` |
+| Commercial license | from $2,500 | Email `LICENSE` |
 
-Payment: Stripe or PayPal to Recursed Studios. Digital goods are delivered by email. No call required for the kit or a license.
+Kit is emailed after payment. Clinic needs a 90-minute slot after payment.
 
 ---
 
@@ -42,6 +40,6 @@ Not for: PLC ladder, TwinCAT application programming, classified work.
 
 ## License of *this* repo
 
-Docs in this repository are © 2026 Recursed Studios / Jeffrey Houser.
+© 2026 Recursed Studios / Jeffrey Houser.
 The free checklist may be used on your own project.
 Do not republish it as a competing kit.
