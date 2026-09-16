@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Recursed Studios">
+  <rect width="200" height="200" fill="#ffffff"/>
+  <rect x="18" y="18" width="164" height="164" rx="10" fill="none" stroke="#C4A574" stroke-width="4"/>
+  <text x="100" y="132" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="92" font-weight="700" fill="#1B2430">Rs</text>
+</svg>

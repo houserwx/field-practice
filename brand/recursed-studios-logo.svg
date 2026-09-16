@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 220" width="920" height="220" role="img" aria-label="Recursed Studios">
+  <rect width="920" height="220" fill="#ffffff"/>
+  <g transform="translate(16,18)">
+    <rect x="8" y="8" width="168" height="168" rx="10" fill="none" stroke="#C4A574" stroke-width="4"/>
+    <text x="92" y="128" text-anchor="middle" font-family="Georgia, Times New Roman, serif" font-size="92" font-weight="700" fill="#1B2430">Rs</text>
+  </g>
+  <text x="230" y="118" font-family="Montserrat, Arial Black, Arial, sans-serif" font-size="72" font-weight="800" letter-spacing="4" fill="#1B2430">RECURSED</text>
+  <text x="230" y="168" font-family="Montserrat, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="14" fill="#C4A574">STUDIOS</text>
+</svg>
